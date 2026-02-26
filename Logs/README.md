@@ -6,7 +6,8 @@
 
 * Les requêtes réussies (code 200)  
 
-Connexion au serveur web resussie depuis l'adresse IP 192.168.1.138 le 26 février sur la page "index.html"
+Connexion au serveur web resussie depuis l'adresse IP 192.168.1.138 le 26 février sur la page "index.html"  
+Télécharement de la page avec curl
 
 * Les erreurs 404 (page non trouvée)  
 
